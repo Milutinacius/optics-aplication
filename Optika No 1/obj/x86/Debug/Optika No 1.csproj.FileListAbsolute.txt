@@ -1,0 +1,50 @@
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.exe.config
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.exe
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.pdb
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.csprojResolveAssemblyReference.cache
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.Form1.resources
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.Properties.Resources.resources
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.csproj.GenerateResource.Cache
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.exe
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.pdb
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.NoviPacijent.resources
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.PoslednjiPregled.resources
+D:\Programiranje\C#\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.ConnectionDefinition.resources
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.exe.config
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.exe
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.pdb
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.exe
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.pdb
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.csprojResolveAssemblyReference.cache
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.ConnectionDefinition.resources
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.Form1.resources
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.NoviPacijent.resources
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.PoslednjiPregled.resources
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.Properties.Resources.resources
+C:\Users\Milutin\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.csproj.GenerateResource.Cache
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.exe.config
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.exe
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.pdb
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.ConnectionDefinition.resources
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.Form1.resources
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.NoviPacijent.resources
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.PoslednjiPregled.resources
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.Properties.Resources.resources
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.csproj.GenerateResource.Cache
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.exe
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.pdb
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.csprojResolveAssemblyReference.cache
+D:\Programiranje\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.LoadingScreen.resources
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.exe.config
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.exe
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.pdb
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.exe
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\bin\x86\Debug\Optika No 1.pdb
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.ConnectionDefinition.resources
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.Form1.resources
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.LoadingScreen.resources
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.NoviPacijent.resources
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.PoslednjiPregled.resources
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika_No_1.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\Aplikacija za optiku\Optika No 1\Optika No 1\obj\x86\Debug\Optika No 1.csproj.GenerateResource.Cache
